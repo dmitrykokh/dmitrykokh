@@ -2,8 +2,6 @@
 
 Меня зовут Дмитрий Кох и это первый тест оформления моей страницы
 
-about me
-
 # languages and tools:
 
 ![Python](https://img.shields.io/badge/-Python-AAA?style=for-the-badge&logo=python)

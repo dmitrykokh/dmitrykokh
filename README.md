@@ -23,4 +23,7 @@ about me
 ![DataLens](https://img.shields.io/badge/-DataLens-FFF?style=for-the-badge&logo=DataLens)
 ![MS Power BI](https://img.shields.io/badge/-MS_Power_BI-FFF?style=for-the-badge&logo=MS_Power_BI)
 
+### contacts
 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Dmkokh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](http://www.linkedin.com/in/dmitry-kokh)
